@@ -1,9 +1,9 @@
-github.com/benpate/convert v0.11.0 h1:62T8ez85ownbPb9x3ZCSQsxJLgDfMei28scscVEqWnE=
-github.com/benpate/convert v0.11.0/go.mod h1:FB986mt1s36qxVkU4hyVCkbTzeXai7PRhNCiFv77UAg=
-github.com/benpate/derp v0.20.1 h1:5+insQ93cVwMhuT53W1WSSDFIaiDQAq5aBuwYTYDnsk=
-github.com/benpate/derp v0.20.1/go.mod h1:ENjMpkMmxn9gAulMAggElVcD2kNrsbjFhoZK8fUlCxY=
-github.com/benpate/null v0.6.0 h1:7ienEL2uuXls6zKAjrmPAHL6GE1MQyw2RqDGCSkWIeo=
-github.com/benpate/null v0.6.0/go.mod h1:ObR4S/eyKgPvABPJhSmvNkF0Ma4I9m/icDc0vaJcUw8=
+github.com/benpate/convert v0.11.1 h1:j1GQdQpwqdsXS5cI+uWeDYW/Zk1P1h7n8AQixZBYNnI=
+github.com/benpate/convert v0.11.1/go.mod h1:OOSsfYUChsbE+9hBIJQsxGyiogL//WTHEpgXiSLETRg=
+github.com/benpate/derp v0.22.2 h1:qPcnT32VG8gqhDR4y+dhK2n/0TMvZ3RUP+HbENNogAc=
+github.com/benpate/derp v0.22.2/go.mod h1:ENjMpkMmxn9gAulMAggElVcD2kNrsbjFhoZK8fUlCxY=
+github.com/benpate/null v0.6.1 h1:MInsq7/M9E9IzF6EWeB1po5p9zQpvimw3brrU1UeRzA=
+github.com/benpate/null v0.6.1/go.mod h1:gxun/MktUPdKfYWvkzCI2fCy3OX/3+sZWh01hjYdXwE=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
