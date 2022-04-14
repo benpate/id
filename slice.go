@@ -1,6 +1,10 @@
 package id
 
-import "go.mongodb.org/mongo-driver/bson/primitive"
+import (
+	"sort"
+
+	"go.mongodb.org/mongo-driver/bson/primitive"
+)
 
 // Converts a value into a slice of ObjectIDs
 func Slice(value interface{}) []primitive.ObjectID {
@@ -25,4 +29,13 @@ func SliceOfString(value []primitive.ObjectID) []string {
 	}
 
 	return result
+}
+
+func Sort(value []primitive.ObjectID) []primitive.ObjectID {
+
+	sort.Slice(value, func(i int, j int) bool {
+		return (value[i].Hex() < value[j].Hex())
+	})
+
+	return value
 }
