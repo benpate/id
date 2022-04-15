@@ -6,7 +6,7 @@ require go.mongodb.org/mongo-driver v1.9.0
 
 require (
 	github.com/benpate/convert v0.12.0
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 )
 
 require (
