@@ -10,6 +10,10 @@ import (
 func Slice(value interface{}) []primitive.ObjectID {
 
 	switch v := value.(type) {
+
+	case []primitive.ObjectID:
+		return v
+
 	case []string:
 		result := make([]primitive.ObjectID, len(v))
 		for index := range v {
