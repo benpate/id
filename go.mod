@@ -5,7 +5,7 @@ go 1.18
 require go.mongodb.org/mongo-driver v1.9.1
 
 require (
-	github.com/benpate/convert v0.13.1
+	github.com/benpate/convert v0.13.2
 	github.com/stretchr/testify v1.7.2
 )
 
