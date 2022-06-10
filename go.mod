@@ -5,13 +5,13 @@ go 1.18
 require go.mongodb.org/mongo-driver v1.9.1
 
 require (
-	github.com/benpate/convert v0.13.2
+	github.com/benpate/convert v0.13.4
 	github.com/stretchr/testify v1.7.2
 )
 
 require (
 	github.com/benpate/derp v0.22.2 // indirect
-	github.com/benpate/null v0.6.3 // indirect
+	github.com/benpate/null v0.6.4 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
