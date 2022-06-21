@@ -3,7 +3,7 @@ module github.com/benpate/id
 go 1.18
 
 require (
-	github.com/benpate/rosetta v0.2.1
+	github.com/benpate/rosetta v0.2.2
 	github.com/stretchr/testify v1.7.4
 	go.mongodb.org/mongo-driver v1.9.1
 )
