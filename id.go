@@ -1,7 +1,7 @@
 package id
 
 import (
-	"github.com/benpate/convert"
+	"github.com/benpate/rosetta/convert"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 
