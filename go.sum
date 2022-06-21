@@ -1,7 +1,7 @@
-github.com/benpate/derp v0.22.2 h1:qPcnT32VG8gqhDR4y+dhK2n/0TMvZ3RUP+HbENNogAc=
-github.com/benpate/derp v0.22.2/go.mod h1:ENjMpkMmxn9gAulMAggElVcD2kNrsbjFhoZK8fUlCxY=
-github.com/benpate/rosetta v0.2.2 h1:HGh0w0hbGjrARXIR+n2S+AEtRbKrdFB5ZjGsw/ePNzU=
-github.com/benpate/rosetta v0.2.2/go.mod h1:MNwKpW8FqxEbkWt1USubDyBlNYMSBeMzaqWWb7R4S6Y=
+github.com/benpate/derp v0.23.0 h1:cfHgXZu0xXCgypvYdtHjQPPqrKEUPhsH0Ff48ke3Mf8=
+github.com/benpate/derp v0.23.0/go.mod h1:tTYfod3k1+5PcngPg8RgeOPvb/YsiQuBIEu4eFq4P+Q=
+github.com/benpate/rosetta v0.3.0 h1:Vxc2mZm6ZHO3jylOz+Jl1GdjGgBoPRWUSgEBrmpmeMc=
+github.com/benpate/rosetta v0.3.0/go.mod h1:Pj8wx0ZMot2tVpIJHqMimgM2hjtMKjKt4hMkmWJvkis=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
