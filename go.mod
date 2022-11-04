@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/benpate/rosetta v0.6.1
 	github.com/stretchr/testify v1.8.0
-	go.mongodb.org/mongo-driver v1.10.3
+	go.mongodb.org/mongo-driver v1.11.0
 )
 
 require (
